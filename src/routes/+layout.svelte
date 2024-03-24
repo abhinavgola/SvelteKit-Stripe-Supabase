@@ -59,7 +59,7 @@
 	<h2 class="p-4">
 		<button class="lg:hidden btn btn-sm mr-4 variant-filled-secondary" on:click={drawerClose}>
 			<span> X </span>
-		</button>4S Stack Navigation
+		</button>One Percent
 	</h2>
 	<hr />
 	<Navigation {session} />
@@ -79,7 +79,7 @@
 							</svg>
 						</span>
 					</button>
-					<strong class="text-xl uppercase">4S</strong>
+					<strong class="text-xl uppercase">1%</strong>
 				</div>
 			</svelte:fragment>
 		</AppBar>

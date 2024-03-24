@@ -14,8 +14,3 @@ declare global {
 	}
 }
 
-declare class Product {
-	id: string; // Stripe ID
-	name: string; // "Coffee"
-	price: number; // 5
-}
